@@ -2,7 +2,7 @@
 jVoiceBridge README
 -------------------
 
-ABOUT jVoiceBridge
+ABOUT jVoiceBridge 
 
 jVoiceBridge is a Java-based software conference bridge.  It uses the SIP and RTP protocols to send signaling and audio data, respectively.  It is designed to be highly reliable and scalable, while still providing advanced features such as high-fidelity, stereo audio and individual mixes. 
 
